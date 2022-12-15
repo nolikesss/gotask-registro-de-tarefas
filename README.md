@@ -1,5 +1,3 @@
-# gotask-registro-de-tarefas
-
 # Projeto registro de tarefas
 
 
