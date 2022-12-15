@@ -1,0 +1,7 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #ecf3ef,#476f96,#f8faf9);
+    padding: 1.0rem;
+}

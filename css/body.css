@@ -1,0 +1,60 @@
+.container{
+    width: 100%;
+    max-width: 720px;
+    margin: 3rem auto 6rem auto;;
+    flex: 1;
+}
+
+/* HEADER */
+
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.main-header .btn-new-task{
+    background-color: #277fff;
+    color: #fff;
+}
+
+.main-header .btn-new-task:hover{
+    background-color: #0068ff;
+}
+
+.main-header .total-tasks{
+    color: #3d3d3d;
+    font-size: 0.9em;
+    font-weight: 600;
+}
+
+.main-header #count-tasks{
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+/* TABLE */
+
+table{
+    width: 100%;
+    text-align: left;
+    border-spacing: 0 0.5rem ;
+}
+
+table thead th{
+    background-color: #fff;
+    padding: 0.9em;
+    font-size: 1em;
+}
+
+table tbody td{
+    background-color: #fff;
+    padding: 0.9em;
+}
+
+#load-msg{
+    text-align: center;
+    color: #3d3d3d;
+    margin-top: 2rem;
+}
